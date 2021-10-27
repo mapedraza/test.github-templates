@@ -1,11 +1,8 @@
-blank_issues_enabled: false
+blank_issues_enabled: true
 contact_links:
   - name: Orion documentation
     url: https://fiware-orion.readthedocs.io/en/master/
     about: check the documentation first
   - name: Community Support
     url: https://stackoverflow.com/questions/ask
-    about: Please ask and answer questions here and use the tag `fiware-orion`
-  - name: Security Bug Bounty
-    url: mailto:telefonica.fiware@gmail.com
-    about: Please report security vulnerabilities here.
+    about: Please ask and answer questions here and use the tag fiware-orion
