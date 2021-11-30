@@ -4,5 +4,5 @@ contact_links:
     url: https://fiware-orion.readthedocs.io/en/master/
     about: check the documentation first
   - name: Community Support
-    url: https://stackoverflow.com/questions/ask
+    url: https://stackoverflow.com/questions/ask?tags=fiware-orion+fiware
     about: Please ask and answer questions here and use the tag fiware-orion
